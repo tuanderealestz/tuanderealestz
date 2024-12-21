@@ -1,6 +1,6 @@
 📘 Introduction
 
-Welcome to my GitHub! I am a student majoring in Electronics and Telecommunications, with an academic background and experience in various fields, including:
+Welcome to my GitHub! I am a student majoring in Electronics and Telecommunications at the University of Science, Vietnam National University - Ho Chi Minh City (VNU-HCM), with an academic background and experience in various fields, including:
 🛠️ Basic and Advanced Electronics: From basic electronics, digital electronics, to analog electronics.
 💻 Programming and Computer Engineering: Object-oriented programming, data structures and algorithms, computer architecture, and microcontrollers.
 📡 Signal Processing and Communication: Signals and systems, digital signal processing, data communication, digital communication, and communication systems.
